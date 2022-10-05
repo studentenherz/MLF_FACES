@@ -9,7 +9,7 @@ This is a project for the Machine Learning Fundamentals course in the Institute 
 
 #### Reproduce
 
-Crete a new environment and install de requirements
+Crete a new environment and install the requirements
 
 ```bash
 $ virtualenv venv
